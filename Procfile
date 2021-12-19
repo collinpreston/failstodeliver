@@ -1,1 +1,1 @@
-web: python ftdDownloader.py
+clock: python ftdDownloader.py
